@@ -1,0 +1,15 @@
+{
+  "name": "crystal-core-3733",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 6574,
+    "createdAt": "2026-07-11T14:58:37.182Z"
+  }
+}
